@@ -1,0 +1,19 @@
+{
+  "name": "firstnodejs",
+  "version": "1.0.0",
+  "description": "testing git and vscode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stuart-Tester19/FirstNodeJS.git"
+  },
+  "author": "Stuart Todd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stuart-Tester19/FirstNodeJS/issues"
+  },
+  "homepage": "https://github.com/Stuart-Tester19/FirstNodeJS#readme"
+}
